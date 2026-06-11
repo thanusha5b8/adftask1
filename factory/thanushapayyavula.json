@@ -1,0 +1,15 @@
+{
+	"name": "thanushapayyavula",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "185ba23c-3809-42b3-962c-6784897eb4ce",
+		"tenantId": "f7e8d999-0f6c-4185-833a-ddc026ede4cf"
+	}
+}
